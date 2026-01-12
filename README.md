@@ -3,8 +3,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&size=50&pause=1000&color=6FB4F7FF&background=FFFFFF00&left=true&vCenter=true&width=1000&lines=Welcome+to+NJ's+github👋)](https://git.io/typing-svg)
 
-![RCNR's GitHub stats](https://github-readme-stats.vercel.app/api?username=RCNR&show_icons=true&theme=radical)
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cjsladk)](https://solved.ac/cjsladk/)
+
+![RCNR's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=rcnr&show_icons=true)
 
 # Skills 🖥️
 ### Platforms & Languages
