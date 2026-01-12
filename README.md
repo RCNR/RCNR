@@ -6,7 +6,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cjsladk)](https://solved.ac/cjsladk/)
 
-![RCNR's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=rcnr&show_icons=true)
+![RCNR's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=rcnr&show_icons=true&theme=tokyonight)
 
 # Skills 🖥️
 ### Platforms & Languages
